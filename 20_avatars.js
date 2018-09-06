@@ -1,10 +1,3 @@
-/*
-this script adds tiny avatars next to staff names in
-the extended info
-
-it's cute but idk if it's worth the hassle
-*/
-
 let account_links = Array.from(document.querySelectorAll('a[href^="https://chitter.xyz/@"]'));
 
 for(let account_link of account_links){

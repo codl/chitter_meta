@@ -1,5 +1,3 @@
-> This document is a **draft**. When finalised, it is intended to replace the extended information on <https://chitter.xyz/about/more>
-
 ## Your staff
 
 Chitter is run by:
