@@ -1,9 +1,5 @@
-Chitter is a collaborative project between <a href="http://violet.pm/">Violet</a>, <a href="http://codl.fr/">codl</a> and <a href="http://win.dlestra.ws/">bug</a> based on the Mastodon.social federated network.<br><br>
+> This document is a **draft**. When finalised, it is intended to replace the blurb on <https://chitter.xyz/about> and at the top of <https://chitter.xyz/about/more>
 
-The idea behind Chitter is to provide a safe and private space for friends and mutuals to interact with each other away from the mainstream social network 'Twitter'. Violet is in charge of maintaining the hosting for the site keeping everything online, and also the graphic design work/choices.<br><br>
+*Welcome!* Chitter is a social network fostering a friendly, inclusive, and incredibly soft community.
 
-Codl is the site's technician providing user support if something doesn't work properly, Codl is also in charge of the site's framework providing new features and updates, Bug also works in these fields too, as well as working as one of the site's friendly administrators, responding to report tickets and keeping everything under control<br><br>
-
-Thank you for visiting, we hope you enjoy your stay!
-
-<br><br>Support chitter! Any donations are very much appreciated and will allow hosting for the site to continue in the future! We accept donations via <a href="https://www.patreon.com/chitter">Patreon</a> or <a href="https://liberapay.com/Chitter/">Liberapay</a>
+All sorts of folk with all sorts of interests gather here. At any time, the local timeline might be talking about video games, tech, art, furry stuff, LGBTQIA and identity, jokes (lots of jokes,) etc...
