@@ -1,4 +1,4 @@
-let account_links = Array.from(document.querySelectorAll('a[href^="https://chitter.xyz/@"]'));
+let account_links = Array.from(document.querySelectorAll('.rich-formatting a[href^="https://chitter.xyz/@"]'));
 
 for(let account_link of account_links){
     fetch(account_link.href, {'headers':
